@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  2 21:48:38 2024
-
-@author: a865747
-"""
-
 import random
 #from estimateur_03        import compte_le_nombre_mini_de_plis_et_valeur
 from transcripteur        import transcrire_liste_symbol
