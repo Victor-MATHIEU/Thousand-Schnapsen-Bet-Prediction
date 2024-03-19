@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 20 10:07:13 2024
-
-@author: a865747
-"""
-
 dic_cart =dict()
 dic_cart = {"A":11,"0":10,"R":4,"D":3,"V":2,"9":0}
 ord_cart = [11,10,4,3,2,0]
